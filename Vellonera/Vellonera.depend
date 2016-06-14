@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1436042175 source:c:\users\\desktop\estructura\vellonera\main.cpp
+	"
+
+1436032147 source:c:\users\Dell\desktop\estructura\vellonera\src\cancion.cpp
+	"Cancion.h"
+
+1436032014 c:\users\Dell\desktop\estructura\vellonera\include\cancion.h
+	<string>
+
+1436042235 source:c:\users\Dell\desktop\estructura\vellonera\src\lista.cpp
+	"Lista.h"
+	"stdio.h"
+
+1436042002 c:\users\Dell\desktop\estructur\vellonera\include\lista.h
+	"Cancion.h"
+	<iostream>
+	"stdio.h"
+
+1436042859 source:c:\users\Rey Cabral\dessktop\estructura\vellonera\main.cpp
+	"Lista.h"
+
+1436052886 c:\users\Rey Cabral\desktop\estructura\vellonera\include\lista.h
+	"Cancion.h"
+	"stdio.h"
+	<iostream>
+
+1436032014 c:\users\Rey Cabral\desktop\estructura\vellonera\include\cancion.h
+	<string>
+
+1436032147 source:c:\users\Rey Cabral\desktop\estructura\vellonera\src\cancion.cpp
+	"Cancion.h"
+
+1436052639 source:c:\users\Rey Cabral\desktop\estructura\vellonera\src\lista.cpp
+	"Lista.h"
+
+1437783681 source:c:\users\usuario\desktop\bb\vellonera\src\cancion.cpp
+	"Cancion.h"
+
+1436032014 c:\users\usuario\desktop\bb\vellonera\include\cancion.h
+	<string>
+
+1437783718 source:c:\users\usuario\desktop\bb\vellonera\src\lista.cpp
+	"Lista.h"
+
+1436052886 c:\users\usuario\desktop\bb\vellonera\include\lista.h
+	"Cancion.h"
+	"stdio.h"
+	<iostream>
+

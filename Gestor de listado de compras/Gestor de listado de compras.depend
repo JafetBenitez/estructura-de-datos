@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1432936392 source:e:\académico\estructura de datos\workspace c++\gestor de listado de compras\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Item.h"
+	<cstdlib>
+	<string>
+
+1432918153 e:\académico\estructura de datos\workspace c++\gestor de listado de compras\lista.h
+	"Item.h"
+
+1432936221 e:\académico\estructura de datos\workspace c++\gestor de listado de compras\item.h
+	<string>
+	<iostream>
+

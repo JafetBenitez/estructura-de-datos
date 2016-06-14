@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1432936585 source:e:\académico\estructura de datos\workspace c++\gestor 3\src\item.cpp
+	"Item.h"
+
+1432937525 e:\académico\estructura de datos\workspace c++\gestor 3\include\item.h
+	"string"
+
+1432937362 source:e:\académico\estructura de datos\workspace c++\gestor 3\src\lista.cpp
+	"Lista.h"
+
+1432937481 e:\académico\estructura de datos\workspace c++\gestor 3\include\lista.h
+	"Item.h"
+

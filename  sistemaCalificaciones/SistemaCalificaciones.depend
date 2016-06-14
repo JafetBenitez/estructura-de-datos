@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1438378544 source:e:\académico\estructura de datos\workspace c++\ sistemacalificaciones\main.cpp
+	<iostream>
+	"Lista.h"
+	<stdlib.h>
+	"fstream"
+
+1438357964 e:\académico\estructura de datos\workspace c++\ sistemacalificaciones\include\lista.h
+	"Estudiante.h"
+	<iostream>
+
+1438282379 e:\académico\estructura de datos\workspace c++\ sistemacalificaciones\include\estudiante.h
+	"string"
+
+1438282896 source:e:\académico\estructura de datos\workspace c++\ sistemacalificaciones\src\estudiante.cpp
+	"Estudiante.h"
+
+1438378544 source:e:\académico\estructura de datos\workspace c++\ sistemacalificaciones\src\lista.cpp
+	"Lista.h"
+	<stdlib.h>
+	"fstream"
+

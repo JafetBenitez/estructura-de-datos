@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1432929339 source:e:\académico\estructura de datos\workspace c++\gestor de listas-la revancha\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Item.h"
+	<cstdlib>
+
+1432934489 e:\académico\estructura de datos\workspace c++\gestor de listas-la revancha\item.h
+	<string>
+	<iostream>
+

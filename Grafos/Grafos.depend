@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1438967678 source:d:\académico\estructura de datos\workspace c++\grafos\main.cpp
+	<iostream>
+	"Grafo.h"
+
+1438967678 d:\académico\estructura de datos\workspace c++\grafos\include\grafo.h
+	"Cola.h"
+
+1438967678 d:\académico\estructura de datos\workspace c++\grafos\include\cola.h
+	"Vertice.h"
+
+1438967814 d:\académico\estructura de datos\workspace c++\grafos\include\vertice.h
+	"string"
+

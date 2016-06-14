@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1435948515 source:e:\académico\estructura de datos\workspace c++\agenda de contactos\main.cpp
+	<fstream>
+	<iostream>
+	<string.h>
+	<stdlib.h>
+

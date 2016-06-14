@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1432906733 source:e:\académico\estructura de datos\workspace c++\listas 31 de enero 2013\elemento.cpp
+	"Elemento.h"
+
+1432906734 e:\académico\estructura de datos\workspace c++\listas 31 de enero 2013\elemento.h
+	<string>
+	<iostream>
+
+1432906734 source:e:\académico\estructura de datos\workspace c++\listas 31 de enero 2013\lista.cpp
+	"Lista.h"
+
+1432906734 e:\académico\estructura de datos\workspace c++\listas 31 de enero 2013\lista.h
+	"Elemento.h"
+
+1432906735 source:e:\académico\estructura de datos\workspace c++\listas 31 de enero 2013\main.cpp
+	"Lista.h"
+	<cstdlib>
+

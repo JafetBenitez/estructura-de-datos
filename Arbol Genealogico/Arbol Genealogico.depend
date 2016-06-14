@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1438399167 source:e:\académico\estructura de datos\workspace c++\arbol genealogico\main.cpp
+	<iostream>
+	"Arbol.h"
+
+1438398060 e:\académico\estructura de datos\workspace c++\arbol genealogico\include\arbol.h
+	"Pariente.h"
+
+1438398550 e:\académico\estructura de datos\workspace c++\arbol genealogico\include\pariente.h
+	"string"
+
+1438398155 source:e:\académico\estructura de datos\workspace c++\arbol genealogico\src\arbol.cpp
+	"Arbol.h"
+	"string"
+	"iostream"
+
+1438398415 source:e:\académico\estructura de datos\workspace c++\arbol genealogico\src\pariente.cpp
+	"Pariente.h"
+	"string.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1434153446 source:e:\académico\estructura de datos\workspace c++\consultorio\src\lista.cpp
+	"Lista.h"
+
+1434153195 e:\académico\estructura de datos\workspace c++\consultorio\include\lista.h
+	"Paciente.h"
+	"iostream"
+	"cstdlib"
+
+1434152733 e:\académico\estructura de datos\workspace c++\consultorio\include\paciente.h
+	"string"
+
+1434153474 source:e:\académico\estructura de datos\workspace c++\consultorio\src\paciente.cpp
+	"Paciente.h"
+

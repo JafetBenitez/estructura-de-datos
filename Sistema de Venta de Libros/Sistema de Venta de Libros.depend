@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1439191302 source:d:\académico\estructura de datos\workspace c++\sistema de venta de libros\main.cpp
+	<iostream>
+	"stdlib.h"
+	"Orden.h"
+	"Agenda.h"
+	"Inventario.h"
+	"string"
+	"Pedidos.h"
+
+1439188051 d:\académico\estructura de datos\workspace c++\sistema de venta de libros\include\orden.h
+	"Cliente.h"
+	"Libro.h"
+
+1439184147 d:\académico\estructura de datos\workspace c++\sistema de venta de libros\include\cliente.h
+	"string"
+
+1439184147 d:\académico\estructura de datos\workspace c++\sistema de venta de libros\include\libro.h
+	"string"
+
+1439188051 d:\académico\estructura de datos\workspace c++\sistema de venta de libros\include\agenda.h
+	"Cliente.h"
+
+1439190627 d:\académico\estructura de datos\workspace c++\sistema de venta de libros\include\inventario.h
+	"Libro.h"
+
+1439188051 source:d:\académico\estructura de datos\workspace c++\sistema de venta de libros\src\agenda.cpp
+	"Agenda.h"
+	<iostream>
+	"string"
+
+1439184247 source:d:\académico\estructura de datos\workspace c++\sistema de venta de libros\src\cliente.cpp
+	"Cliente.h"
+
+1439190795 source:d:\académico\estructura de datos\workspace c++\sistema de venta de libros\src\inventario.cpp
+	"Inventario.h"
+	"string"
+	<iostream>
+
+1439184263 source:d:\académico\estructura de datos\workspace c++\sistema de venta de libros\src\libro.cpp
+	"Libro.h"
+
+1439192169 source:d:\académico\estructura de datos\workspace c++\sistema de venta de libros\src\orden.cpp
+	"Orden.h"
+
+1439192555 source:d:\académico\estructura de datos\workspace c++\sistema de venta de libros\src\pedidos.cpp
+	"Pedidos.h"
+	"string"
+	"iostream"
+
+1439190819 d:\académico\estructura de datos\workspace c++\sistema de venta de libros\include\pedidos.h
+	"Orden.h"
+	"Inventario.h"
+

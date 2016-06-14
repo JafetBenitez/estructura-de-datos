@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1437776383 source:e:\académico\estructura de datos\workspace c++\la vellonera\main.cpp
+	<iostream>
+	"stdlib.h"
+	<ctime>
+
+1437742277 source:e:\académico\estructura de datos\workspace c++\la vellonera\src\song.cpp
+	"Song.h"
+
+1437776361 e:\académico\estructura de datos\workspace c++\la vellonera\include\song.h
+	<string.h>
+
